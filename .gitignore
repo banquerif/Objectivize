@@ -1,0 +1,7 @@
+# Archivos que no queremos subir a Git
+
+# Carpeta 'node_modules'
+node_modules
+
+# Archivo 'DS_Store' (Generado por el sistema operativo de Apple MacOs)
+.DS_Store
